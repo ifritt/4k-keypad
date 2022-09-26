@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Kailh_Choc")(type "KiCad")(uri "E:/Documents/projects/ee/pcb/4k-keypad/MX_Alps_Hybrid/Kailh_Choc.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "E:/Documents/projects/ee/pcb/4k-keypad/random-keyboard-parts.pretty")(options "")(descr ""))
+)
