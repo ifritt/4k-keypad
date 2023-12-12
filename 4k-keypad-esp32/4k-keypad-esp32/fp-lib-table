@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32-DEVKITC-32D")(type "KiCad")(uri "E:/Documents/projects/ee/pcb/4k-keypad-esp32/ESP32-DEVKITC-32D")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "E:/Documents/projects/ee/pcb/4k-keypad-esp32/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+)

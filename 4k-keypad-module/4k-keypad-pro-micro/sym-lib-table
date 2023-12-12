@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "E:/Documents/projects/ee/pcb/4k-keypad-arduino-nano/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "E:/Documents/projects/ee/pcb/4k-keypad-arduino-nano/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "E:/Documents/projects/ee/pcb/4k-keypad-arduino-nano/ProMicroKiCad/promicro_library/promicro.lib")(options "")(descr ""))
+)
